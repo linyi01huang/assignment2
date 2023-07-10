@@ -6,7 +6,7 @@ metadata:
 spec:
   containers:
   - name: webapp
-    image: application
+    image: 553085735006.dkr.ecr.us-east-1.amazonaws.com/linyi:application
     ports:
     - containerPort: 8080
     env:

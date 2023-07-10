@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: mysql
-    image: mysql
+    image: 553085735006.dkr.ecr.us-east-1.amazonaws.com/linyi:mysql
     env:
     - name: MYSQL_ALLOW_EMPTY_PASSWORD
       value: "no"
