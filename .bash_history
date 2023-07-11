@@ -184,3 +184,88 @@ kubectl apply -f webapp-pod.yaml -n webapp
 kubectl get pods -n webapp
 kubectl delete pod webapp -n webapp
 exit
+curl http://localhost:8080
+curl http://localhost:30000
+clear
+exit
+kubectl get pods -n mysql
+sudo yum update -y
+kubectl get pods -n mysql
+sudo service docker start
+curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.11.1/kind-linux-amd64
+chmod +x ./kind
+sudo mv kind /usr/local/bin
+curl -o kubectl https://amazon-eks.s3.us-west-2.amazonaws.com/1.21.2/2021-07-05/bin/linux/amd64/kubectl
+kubectl get pods -n mysql
+kubectl version --short --client
+kubectl cluster-info
+kubectl get service webapp -n webapp
+kubectl get service webapp-service -n webapp
+kubectl get service mysql-service -n mysql
+kubectl get pods
+kubectl get pods -n webapp
+ls
+vi webapp-pod.yaml
+kubectl apply -f webapp-service.yaml
+kubectl apply -f webapp-pod.yaml
+kubectl get pods -n webapp
+kubectl delete pod webapp -n webapp
+vi webapp-pod.yaml
+kubectl apply -f webapp-pod.yaml
+kubectl get pods -n webapp
+kubectl logs webapp -n webapp
+kubectl delete pod webapp -n webapp
+docker images
+docker rmi e6601621db86
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 553085735006.dkr.ecr.us-east-1.amazonaws.com
+kubectl delete pod mysql -n mysql
+vi mysql-pod.yaml
+vi webapp-pod.yaml
+kubectl apply -f mysql-pod.yaml
+kubectl get pods -n mysql
+kubectl apply -f webapp-pod.yaml
+kubectl get pods -n webapp
+kubectl port-forward pod/app-pod 8080:8080
+kubectl port-forward pod/webapp-pod 8080:8080
+kubectl port-forward pod/webapp 8080:8080
+kubectl get pods -n webapp
+kubectl port-forward -n webapp pod/webapp 8080:8080
+git add .
+git commit -m "Pod manifests"
+kubectl get pods -n webapp
+vi  mysql-replicaset.yaml
+vi  webapp-replicaset.yaml
+kubectl apply -f mysql-replicaset.yaml
+vi  mysql-replicaset.yaml
+kubectl apply -f mysql-replicaset.yaml
+vi  mysql-replicaset.yaml
+kubectl apply -f mysql-replicaset.yaml
+vi  mysql-replicaset.yaml
+kubectl apply -f mysql-replicaset.yaml
+kubectl apply -f webapp-replicaset.yaml
+kubectl get replicaset
+kubectl get pods
+vi mysql-deployment.yaml
+vi webapp-deployment.yaml
+vi mysql-deployment.yaml
+kubectl apply -f mysql-deployment.yaml
+kubectl apply -f webapp-deployment.yaml
+kubectl get pods
+kubectl get pods --all namespace
+kubectl get pods --all-namespaces
+kubectl get deployments
+kubectl get replicasets
+kubectl apply -f mysql-deployment.yaml
+git add .
+git commit -m "ReplicaSet manifests"
+git add .
+git commit -m "final commit"
+kubectl delete deployment mysql-deployment
+kubectl delete deployment webapp-deployment
+kubectl get replicasets
+kubectl get deployments
+kubectl get pods --all-namespaces
+kubectl get services --all-namespaces
+exit
+kubectl get pods --all-namespaces
+exit

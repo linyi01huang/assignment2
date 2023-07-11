@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1689032538,,"wq"
+|2,0,1689036006,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,233 +25,280 @@
 # Registers:
 
 # File marks:
-'0  22  9  ~/mysql-deployment.yaml
-|4,48,22,9,1689032538,"~/mysql-deployment.yaml"
-'1  17  64  ~/webapp-deployment.yaml
-|4,49,17,64,1689032499,"~/webapp-deployment.yaml"
-'2  22  0  ~/mysql-deployment.yaml
-|4,50,22,0,1689032327,"~/mysql-deployment.yaml"
-'3  24  24  ~/mysql-replicaset.yaml
-|4,51,24,24,1689031909,"~/mysql-replicaset.yaml"
-'4  19  66  ~/mysql-replicaset.yaml
-|4,52,19,66,1689031846,"~/mysql-replicaset.yaml"
-'5  19  66  ~/mysql-replicaset.yaml
-|4,53,19,66,1689031846,"~/mysql-replicaset.yaml"
-'6  24  24  ~/mysql-replicaset.yaml
-|4,54,24,24,1689031777,"~/mysql-replicaset.yaml"
-'7  24  24  ~/mysql-replicaset.yaml
-|4,55,24,24,1689031777,"~/mysql-replicaset.yaml"
-'8  24  24  ~/mysql-replicaset.yaml
-|4,56,24,24,1689031777,"~/mysql-replicaset.yaml"
-'9  24  24  ~/mysql-replicaset.yaml
-|4,57,24,24,1689031773,"~/mysql-replicaset.yaml"
+'0  12  3  ~/webapp-service.yaml
+|4,48,12,3,1689036006,"~/webapp-service.yaml"
+'1  10  0  ~/mysql-service.yaml
+|4,49,10,0,1689035983,"~/mysql-service.yaml"
+'2  22  9  ~/mysql-deployment.yaml
+|4,50,22,9,1689035927,"~/mysql-deployment.yaml"
+'3  17  64  ~/webapp-deployment.yaml
+|4,51,17,64,1689035891,"~/webapp-deployment.yaml"
+'4  32  0  ~/webapp-replicaset.yaml
+|4,52,32,0,1689035809,"~/webapp-replicaset.yaml"
+'5  24  24  ~/mysql-replicaset.yaml
+|4,53,24,24,1689035789,"~/mysql-replicaset.yaml"
+'6  9  72  ~/webapp-pod.yaml
+|4,54,9,72,1689035723,"~/webapp-pod.yaml"
+'7  11  66  ~/mysql-pod.yaml
+|4,55,11,66,1689035702,"~/mysql-pod.yaml"
+'8  22  9  ~/mysql-deployment.yaml
+|4,56,22,9,1689032538,"~/mysql-deployment.yaml"
+'9  17  64  ~/webapp-deployment.yaml
+|4,57,17,64,1689032499,"~/webapp-deployment.yaml"
 
 # Jumplist (newest first):
+-'  12  3  ~/webapp-service.yaml
+|4,39,12,3,1689036006,"~/webapp-service.yaml"
+-'  10  0  ~/mysql-service.yaml
+|4,39,10,0,1689035983,"~/mysql-service.yaml"
+-'  10  0  ~/mysql-service.yaml
+|4,39,10,0,1689035983,"~/mysql-service.yaml"
 -'  22  9  ~/mysql-deployment.yaml
-|4,39,22,9,1689032538,"~/mysql-deployment.yaml"
+|4,39,22,9,1689035927,"~/mysql-deployment.yaml"
+-'  22  9  ~/mysql-deployment.yaml
+|4,39,22,9,1689035927,"~/mysql-deployment.yaml"
+-'  22  9  ~/mysql-deployment.yaml
+|4,39,22,9,1689035927,"~/mysql-deployment.yaml"
+-'  22  9  ~/mysql-deployment.yaml
+|4,39,22,9,1689035927,"~/mysql-deployment.yaml"
 -'  17  64  ~/webapp-deployment.yaml
-|4,39,17,64,1689032499,"~/webapp-deployment.yaml"
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
 -'  17  64  ~/webapp-deployment.yaml
-|4,39,17,64,1689032499,"~/webapp-deployment.yaml"
--'  1  0  ~/webapp-deployment.yaml
-|4,39,1,0,1689032333,"~/webapp-deployment.yaml"
--'  1  0  ~/webapp-deployment.yaml
-|4,39,1,0,1689032333,"~/webapp-deployment.yaml"
--'  22  0  ~/mysql-deployment.yaml
-|4,39,22,0,1689032327,"~/mysql-deployment.yaml"
--'  22  0  ~/mysql-deployment.yaml
-|4,39,22,0,1689032327,"~/mysql-deployment.yaml"
--'  1  0  ~/mysql-deployment.yaml
-|4,39,1,0,1689031949,"~/mysql-deployment.yaml"
--'  1  0  ~/mysql-deployment.yaml
-|4,39,1,0,1689031949,"~/mysql-deployment.yaml"
--'  1  0  ~/mysql-deployment.yaml
-|4,39,1,0,1689031949,"~/mysql-deployment.yaml"
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
+-'  17  64  ~/webapp-deployment.yaml
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
+-'  17  64  ~/webapp-deployment.yaml
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
+-'  17  64  ~/webapp-deployment.yaml
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
+-'  17  64  ~/webapp-deployment.yaml
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
+-'  17  64  ~/webapp-deployment.yaml
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
+-'  17  64  ~/webapp-deployment.yaml
+|4,39,17,64,1689035891,"~/webapp-deployment.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
+-'  32  0  ~/webapp-replicaset.yaml
+|4,39,32,0,1689035809,"~/webapp-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031909,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031896,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
--'  19  66  ~/mysql-replicaset.yaml
-|4,39,19,66,1689031846,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031784,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031777,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
 -'  24  24  ~/mysql-replicaset.yaml
-|4,39,24,24,1689031773,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  24  0  ~/mysql-replicaset.yaml
-|4,39,24,0,1689031730,"~/mysql-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
--'  32  0  ~/webapp-replicaset.yaml
-|4,39,32,0,1689031673,"~/webapp-replicaset.yaml"
+|4,39,24,24,1689035789,"~/mysql-replicaset.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
+-'  9  72  ~/webapp-pod.yaml
+|4,39,9,72,1689035723,"~/webapp-pod.yaml"
 
 # History of marks within files (newest to oldest):
 
+> ~/webapp-service.yaml
+	*	1689035992	0
+	"	12	3
+	^	12	4
+	.	13	3
+	+	12	30
+	+	4	22
+	+	5	19
+	+	6	7
+	+	6	23
+	+	7	16
+	+	6	5
+	+	7	16
+	+	8	8
+	+	9	14
+	+	9	34
+	+	10	20
+	+	9	2
+	+	10	0
+	+	9	12
+	+	10	20
+	+	11	19
+	+	12	13
+	+	12	30
+	+	14	0
+	+	12	22
+	+	12	17
+	+	13	3
+
+> ~/mysql-service.yaml
+	*	1689035975	0
+	"	10	0
+	^	10	0
+	.	10	0
+	+	9	27
+	+	4	21
+	+	5	18
+	+	6	5
+	+	7	8
+	+	8	16
+	+	8	14
+	+	9	13
+	+	9	27
+	+	11	0
+	+	9	11
+	+	10	0
+
 > ~/mysql-deployment.yaml
-	*	1689032536	0
+	*	1689035905	0
 	"	22	9
 	^	22	10
 	.	22	9
@@ -300,7 +347,7 @@
 	+	22	9
 
 > ~/webapp-deployment.yaml
-	*	1689032495	0
+	*	1689035877	0
 	"	17	64
 	^	17	65
 	.	17	64
@@ -340,8 +387,51 @@
 	+	30	0
 	+	17	64
 
+> ~/webapp-replicaset.yaml
+	*	1689035807	0
+	"	32	0
+	^	32	0
+	.	31	26
+	+	31	359
+	+	4	25
+	+	5	9
+	+	6	18
+	+	7	5
+	+	8	13
+	+	9	11
+	+	10	16
+	+	11	20
+	+	12	12
+	+	12	25
+	+	13	27
+	+	14	36
+	+	16	14
+	+	16	9
+	+	16	4
+	+	12	11
+	+	13	13
+	+	14	13
+	+	15	0
+	+	16	9
+	+	17	17
+	+	18	22
+	+	19	0
+	+	20	16
+	+	21	33
+	+	22	18
+	+	22	14
+	+	23	26
+	+	24	27
+	+	25	26
+	+	26	27
+	+	27	28
+	+	28	32
+	+	29	25
+	+	30	25
+	+	31	26
+
 > ~/mysql-replicaset.yaml
-	*	1689031907	0
+	*	1689035774	0
 	"	24	24
 	^	24	25
 	.	24	24
@@ -386,51 +476,8 @@
 	+	19	66
 	+	24	24
 
-> ~/webapp-replicaset.yaml
-	*	1689031672	0
-	"	32	0
-	^	32	0
-	.	31	26
-	+	31	359
-	+	4	25
-	+	5	9
-	+	6	18
-	+	7	5
-	+	8	13
-	+	9	11
-	+	10	16
-	+	11	20
-	+	12	12
-	+	12	25
-	+	13	27
-	+	14	36
-	+	16	14
-	+	16	9
-	+	16	4
-	+	12	11
-	+	13	13
-	+	14	13
-	+	15	0
-	+	16	9
-	+	17	17
-	+	18	22
-	+	19	0
-	+	20	16
-	+	21	33
-	+	22	18
-	+	22	14
-	+	23	26
-	+	24	27
-	+	25	26
-	+	26	27
-	+	27	28
-	+	28	32
-	+	29	25
-	+	30	25
-	+	31	26
-
 > ~/webapp-pod.yaml
-	*	1689028571	0
+	*	1689035707	0
 	"	9	72
 	^	9	73
 	.	9	72
@@ -513,7 +560,7 @@
 	+	9	72
 
 > ~/mysql-pod.yaml
-	*	1689028558	0
+	*	1689035683	0
 	"	11	66
 	^	11	67
 	.	11	66
@@ -546,50 +593,3 @@
 	+	18	4
 	+	19	6
 	+	11	66
-
-> ~/webapp-service.yaml
-	*	1689020172	0
-	"	12	3
-	^	12	4
-	.	13	3
-	+	12	30
-	+	4	22
-	+	5	19
-	+	6	7
-	+	6	23
-	+	7	16
-	+	6	5
-	+	7	16
-	+	8	8
-	+	9	14
-	+	9	34
-	+	10	20
-	+	9	2
-	+	10	0
-	+	9	12
-	+	10	20
-	+	11	19
-	+	12	13
-	+	12	30
-	+	14	0
-	+	12	22
-	+	12	17
-	+	13	3
-
-> ~/mysql-service.yaml
-	*	1689019671	0
-	"	10	0
-	^	10	0
-	.	10	0
-	+	9	27
-	+	4	21
-	+	5	18
-	+	6	5
-	+	7	8
-	+	8	16
-	+	8	14
-	+	9	13
-	+	9	27
-	+	11	0
-	+	9	11
-	+	10	0
